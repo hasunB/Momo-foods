@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="momo_brown">#9F7A5F</color>
+    <color name="main_color">#20202A</color>
+    <color name="secondary_color">#262932</color>
+
+</resources>
